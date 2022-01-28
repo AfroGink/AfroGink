@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AfroGink
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... cs50
+- 🌱 I’m currently learning ... looking where to learn
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... instagram joaco_hreed
 
